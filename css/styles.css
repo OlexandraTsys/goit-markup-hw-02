@@ -30,7 +30,7 @@ body {
 .link {
   text-decoration: none;
 }
-.prority-title {
+.section-title {
   color: var(--main-text-color);
 
   font-weight: 700;
@@ -39,7 +39,7 @@ body {
   text-align: center;
 }
 /* Header */
-.header {
+.header-page {
   background-color: var(--white);
 }
 /* logo */
@@ -174,7 +174,7 @@ body {
   color: var(--white);
   background-color: var(--accent-text);
 }
-.image-name {
+.project-list-img {
   color: var(--main-text-color);
 
   font-weight: 700;
